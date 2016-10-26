@@ -5,6 +5,8 @@
   <key>Actions</key>
   <array>
     <dict>
+      <key>Image File</key>
+      <string>logo.png</string>
       <key>After</key>
       <string>copy-result</string>
       <key>Script Interpreter</key>
