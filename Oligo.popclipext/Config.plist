@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Actions</key>
+  <array>
+    <dict>
+      <key>After</key>
+      <string>copy-result</string>
+      <key>Script Interpreter</key>
+      <string>/usr/bin/ruby</string>
+      <key>Shell Script File</key>
+      <string>oligo.rb</string>
+      <key>Title</key>
+      <string>Oligo</string>
+    </dict>
+  </array>
+  <key>Credits</key>
+  <array>
+    <dict>
+      <key>Link</key>
+      <string>zengfengbo.github.io</string>
+      <key>Name</key>
+      <string>Zeng Fengbo</string>
+    </dict>
+  </array>
+  <key>Extension Description</key>
+  <string>oligo tools</string>
+  <key>Extension Identifier</key>
+  <string>com.github.zengfengbo.popclip.extension.oligo</string>
+  <key>Extension Name</key>
+  <string>Oligo</string>
+  <key>Version</key>
+  <string>1</string>
+</dict>
+</plist>
